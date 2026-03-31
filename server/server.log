@@ -1,0 +1,5 @@
+
+> fleetops-server@1.0.0 start
+> ts-node src/index.ts
+
+Server running on port 3000
